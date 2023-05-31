@@ -1,12 +1,5 @@
----
-title: Animaniac
-emoji: 📚
-colorFrom: gray
-colorTo: indigo
-sdk: gradio
-sdk_version: 3.32.0
-app_file: app.py
-pinned: false
----
+Checkout the Demo of the Model on https://huggingface.co/spaces/kevinpkaria/Animaniac
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+This Recommendation System has been Created using the Dataset availiable on Kaggle (https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database). 
+
+I have implemented TF-IDF & Cosine Similarity to Recommend 10 Animes based on the Input given. 
