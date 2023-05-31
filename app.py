@@ -135,4 +135,4 @@ input_dropdown = gr.inputs.Dropdown(choices=anime, label="Select an Anime")
 output_text = gr.outputs.Textbox(label="Recommended Anime")
 
 # Create the Gradio interface
-gr.Interface(fn=recommend_movies, inputs=input_dropdown, outputs=output_text, title="Animaniac: The Anime Recommendation System").launch(share=True)
+gr.Interface(fn=recommend_movies, inputs=input_dropdown, outputs=output_text, title="Animaniac: The Anime Recommendation System").launch()
