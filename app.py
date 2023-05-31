@@ -26,7 +26,7 @@ warnings.filterwarnings("ignore")
 
 """Creating Dataframes from the Files"""
 
-anime_df = pd.read_csv('/anime.csv', dtype=str)
+anime_df = pd.read_csv('anime.csv', dtype=str)
 
 """Printing the First 5 Entries of the Dataset"""
 
