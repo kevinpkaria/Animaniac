@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1gP4yx2f-ABaUHiHkPXrzelT0TdrvoYLO
 
 ### Animaniac - A Project on an Anime Recommendation System by Kevin Karia
-
 Importing all the Libraries and Modules
 """
 
